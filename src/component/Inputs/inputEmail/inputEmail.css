@@ -1,0 +1,7 @@
+.inputEmail {
+  z-index: 1;
+}
+
+.inputEmail__input {
+  margin-right: -1.5rem !important;
+}
